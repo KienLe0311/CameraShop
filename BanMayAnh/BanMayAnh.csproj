@@ -68,9 +68,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="csshome.css" />
+    <Content Include="detail.css" />
     <Content Include="Timkiem.aspx" />
     <Content Include="TrangChu.aspx" />
     <Content Include="Web.config" />
+    <Content Include="Detailproduct.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -87,6 +89,13 @@
     </Compile>
     <Compile Include="TrangChu.aspx.designer.cs">
       <DependentUpon>TrangChu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Detailproduct.aspx.cs">
+      <DependentUpon>Detailproduct.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Detailproduct.aspx.designer.cs">
+      <DependentUpon>Detailproduct.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
