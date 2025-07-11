@@ -18,7 +18,7 @@
             <div id="menu">
                 <ul>
                     <li><a href="#">Trang chủ</a></li>
-                    <li>Sản phẩm</li>
+                    <li><a></a>Sản phẩm</li>
                     <li><a href="Timkiem.aspx">Tìm kiếm</a></li>
                     <li>Giỏ hàng</li>
                     <li>Liên hệ</li>
@@ -27,10 +27,6 @@
             <div id="blogin" runat="server">
                 <input id="login" type="button" onclick="" value="Đăng nhập">
                 <input id="register" type="button" onclick="" value="Đăng ký">
-            </div>
-            <div id="alogin" runat="server">
-                <p>Xin chào</p>
-                <a href="">Đăng xuất</a>
             </div>
         </div>
         <input type="text" id="timkiem" name="tk" placeholder="Tìm kiếm">

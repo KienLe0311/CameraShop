@@ -69,10 +69,13 @@
   <ItemGroup>
     <Content Include="csshome.css" />
     <Content Include="detail.css" />
+    <Content Include="GioHang.css" />
+    <Content Include="j1.js" />
     <Content Include="Timkiem.aspx" />
     <Content Include="TrangChu.aspx" />
     <Content Include="Web.config" />
     <Content Include="Detailproduct.aspx" />
+    <Content Include="GioHang.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -96,6 +99,13 @@
     </Compile>
     <Compile Include="Detailproduct.aspx.designer.cs">
       <DependentUpon>Detailproduct.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GioHang.aspx.cs">
+      <DependentUpon>GioHang.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GioHang.aspx.designer.cs">
+      <DependentUpon>GioHang.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

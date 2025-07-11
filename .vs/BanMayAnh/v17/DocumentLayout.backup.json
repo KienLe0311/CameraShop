@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\CameraShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82E4FD37-1FCB-4670-846B-0AD428EAACAB}|BanMayAnh\\BanMayAnh.csproj|c:\\users\\admin\\documents\\github\\camerashop\\banmayanh\\detailproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{82E4FD37-1FCB-4670-846B-0AD428EAACAB}|BanMayAnh\\BanMayAnh.csproj|C:\\Users\\Admin\\Documents\\GitHub\\CameraShop\\banmayanh\\detailproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{82E4FD37-1FCB-4670-846B-0AD428EAACAB}|BanMayAnh\\BanMayAnh.csproj|solutionrelative:banmayanh\\detailproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -11,15 +11,36 @@
       "RelativeMoniker": "D:0:0:{82E4FD37-1FCB-4670-846B-0AD428EAACAB}|BanMayAnh\\BanMayAnh.csproj|solutionrelative:banmayanh\\detail.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\KienLe0311\\CameraShop\\BanMayAnh\\detail.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{82E4FD37-1FCB-4670-846B-0AD428EAACAB}|BanMayAnh\\BanMayAnh.csproj|C:\\Users\\Admin\\Documents\\GitHub\\CameraShop\\banmayanh\\trangchu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{82E4FD37-1FCB-4670-846B-0AD428EAACAB}|BanMayAnh\\BanMayAnh.csproj|solutionrelative:banmayanh\\trangchu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E4FD37-1FCB-4670-846B-0AD428EAACAB}|BanMayAnh\\BanMayAnh.csproj|c:\\users\\admin\\documents\\github\\camerashop\\banmayanh\\giohang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E4FD37-1FCB-4670-846B-0AD428EAACAB}|BanMayAnh\\BanMayAnh.csproj|solutionrelative:banmayanh\\giohang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E4FD37-1FCB-4670-846B-0AD428EAACAB}|BanMayAnh\\BanMayAnh.csproj|c:\\users\\admin\\documents\\github\\camerashop\\banmayanh\\csshome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{82E4FD37-1FCB-4670-846B-0AD428EAACAB}|BanMayAnh\\BanMayAnh.csproj|solutionrelative:banmayanh\\csshome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E4FD37-1FCB-4670-846B-0AD428EAACAB}|BanMayAnh\\BanMayAnh.csproj|c:\\users\\admin\\documents\\github\\camerashop\\banmayanh\\detailproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E4FD37-1FCB-4670-846B-0AD428EAACAB}|BanMayAnh\\BanMayAnh.csproj|solutionrelative:banmayanh\\detailproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E4FD37-1FCB-4670-846B-0AD428EAACAB}|BanMayAnh\\BanMayAnh.csproj|C:\\Users\\Admin\\Documents\\GitHub\\CameraShop\\banmayanh\\giohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{82E4FD37-1FCB-4670-846B-0AD428EAACAB}|BanMayAnh\\BanMayAnh.csproj|solutionrelative:banmayanh\\giohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82E4FD37-1FCB-4670-846B-0AD428EAACAB}|BanMayAnh\\BanMayAnh.csproj|C:\\Users\\Admin\\Documents\\GitHub\\CameraShop\\banmayanh\\trangchu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82E4FD37-1FCB-4670-846B-0AD428EAACAB}|BanMayAnh\\BanMayAnh.csproj|solutionrelative:banmayanh\\trangchu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82E4FD37-1FCB-4670-846B-0AD428EAACAB}|BanMayAnh\\BanMayAnh.csproj|C:\\Users\\Admin\\Documents\\GitHub\\CameraShop\\banmayanh\\trangchu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{82E4FD37-1FCB-4670-846B-0AD428EAACAB}|BanMayAnh\\BanMayAnh.csproj|solutionrelative:banmayanh\\trangchu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{82E4FD37-1FCB-4670-846B-0AD428EAACAB}|BanMayAnh\\BanMayAnh.csproj|c:\\users\\admin\\documents\\github\\camerashop\\banmayanh\\giohang.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{82E4FD37-1FCB-4670-846B-0AD428EAACAB}|BanMayAnh\\BanMayAnh.csproj|solutionrelative:banmayanh\\giohang.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E4FD37-1FCB-4670-846B-0AD428EAACAB}|BanMayAnh\\BanMayAnh.csproj|c:\\users\\admin\\documents\\github\\camerashop\\banmayanh\\j1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{82E4FD37-1FCB-4670-846B-0AD428EAACAB}|BanMayAnh\\BanMayAnh.csproj|solutionrelative:banmayanh\\j1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,15 +78,94 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "csshome.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\CameraShop\\BanMayAnh\\csshome.css",
+              "RelativeDocumentMoniker": "BanMayAnh\\csshome.css",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\CameraShop\\BanMayAnh\\csshome.css",
+              "RelativeToolTip": "BanMayAnh\\csshome.css",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-11T17:30:55.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Detailproduct.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\CameraShop\\BanMayAnh\\Detailproduct.aspx.cs",
+              "RelativeDocumentMoniker": "BanMayAnh\\Detailproduct.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\CameraShop\\BanMayAnh\\Detailproduct.aspx.cs",
+              "RelativeToolTip": "BanMayAnh\\Detailproduct.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:01:06.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GioHang.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\CameraShop\\BanMayAnh\\GioHang.aspx.cs",
+              "RelativeDocumentMoniker": "BanMayAnh\\GioHang.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\CameraShop\\BanMayAnh\\GioHang.aspx.cs",
+              "RelativeToolTip": "BanMayAnh\\GioHang.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T16:38:37.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "j1.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\CameraShop\\BanMayAnh\\j1.js",
+              "RelativeDocumentMoniker": "BanMayAnh\\j1.js",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\CameraShop\\BanMayAnh\\j1.js",
+              "RelativeToolTip": "BanMayAnh\\j1.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-11T16:03:30.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "detail.css",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\CameraShop\\BanMayAnh\\detail.css",
               "RelativeDocumentMoniker": "BanMayAnh\\detail.css",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\CameraShop\\BanMayAnh\\detail.css",
-              "RelativeToolTip": "BanMayAnh\\detail.css",
-              "ViewState": "AgIAAAIBAAAAAAAAAAAcwBMBAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\CameraShop\\BanMayAnh\\detail.css*",
+              "RelativeToolTip": "BanMayAnh\\detail.css*",
+              "ViewState": "AgIAAEoBAAAAAAAAAAAAAFkBAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-11T07:57:58.09Z"
+              "WhenOpened": "2025-07-11T07:57:58.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GioHang.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\CameraShop\\BanMayAnh\\GioHang.css",
+              "RelativeDocumentMoniker": "BanMayAnh\\GioHang.css",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\CameraShop\\BanMayAnh\\GioHang.css",
+              "RelativeToolTip": "BanMayAnh\\GioHang.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-11T09:03:49.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GioHang.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\CameraShop\\BanMayAnh\\GioHang.aspx",
+              "RelativeDocumentMoniker": "BanMayAnh\\GioHang.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\CameraShop\\BanMayAnh\\GioHang.aspx",
+              "RelativeToolTip": "BanMayAnh\\GioHang.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-11T09:02:20.698Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -82,19 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "detail.css",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KienLe0311\\CameraShop\\BanMayAnh\\detail.css",
-              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\KienLe0311\\CameraShop\\BanMayAnh\\detail.css",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KienLe0311\\CameraShop\\BanMayAnh\\detail.css",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\KienLe0311\\CameraShop\\BanMayAnh\\detail.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-11T07:51:00.46Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "TrangChu.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\CameraShop\\BanMayAnh\\TrangChu.aspx.cs",
               "RelativeDocumentMoniker": "BanMayAnh\\TrangChu.aspx.cs",
@@ -102,11 +190,12 @@
               "RelativeToolTip": "BanMayAnh\\TrangChu.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T01:47:50.623Z"
+              "WhenOpened": "2025-07-10T01:47:50.623Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "TrangChu.aspx",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\CameraShop\\BanMayAnh\\TrangChu.aspx",
               "RelativeDocumentMoniker": "BanMayAnh\\TrangChu.aspx",
@@ -114,7 +203,8 @@
               "RelativeToolTip": "BanMayAnh\\TrangChu.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-07-05T12:42:06.433Z"
+              "WhenOpened": "2025-07-05T12:42:06.433Z",
+              "EditorCaption": ""
             }
           ]
         }
