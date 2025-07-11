@@ -1,0 +1,27 @@
+# === Visual Studio ===
+.vs/                   # Thư mục cấu hình & cache của VS
+*.user                 # File cấu hình user
+*.suo                  # Solution user options
+
+# === Build results ===
+bin/                   # Thư mục output của build
+obj/                   # Thư mục intermediate của build
+
+# === IIS Express ===
+*.dbmdl                # Database project files
+
+# === Rider / ReSharper / IDE ===
+*.DotSettings.user
+.idea/                 # Nếu dùng JetBrains IDE
+
+# === Logs, cache, temp ===
+*.log
+*.tmp
+*.cache
+*.pdb
+*.mdb
+*.bak
+
+# === Source control ===
+*.vssscc
+*.vspscc
