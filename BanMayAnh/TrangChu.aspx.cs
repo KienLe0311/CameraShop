@@ -15,12 +15,12 @@ namespace BanMayAnh
             if (Session["dn"] != null)
             {
                 blogin.Visible = false;
-                alogin.Visible = true;
+                
             }
             else
             {
                 blogin.Visible = true;
-                alogin.Visible = false;
+                
             }
         }
     }

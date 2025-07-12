@@ -412,7 +412,7 @@ ul {
     width: 100%;
     padding: 20px;
     height: auto;
-    margin-top:60px;
+    margin-top:300px;
     display: flex;
 }
 
@@ -424,6 +424,8 @@ ul {
     width: 30%;
     font-family: sans-serif;
 }
+
+
 
 
 
