@@ -70,9 +70,10 @@
                         <input type="number" id="quantity" name="quantity" min="1" value="1" />
                     </div>
                     <div class="product-actions">
-                        <button class="add">Thêm Vào Giỏ Hàng</button>
-                        <button class="purchase">Mua Ngay</button>
-                    </div>
+    <button type="button" class="add" onclick="window.location.href='GioHang.aspx'">Thêm Vào Giỏ Hàng</button>
+    <button type="button" class="purchase">Mua Ngay</button>
+</div>
+
 
                     <h3>Các thông số kỹ thuật</h3>
                     <ul>
